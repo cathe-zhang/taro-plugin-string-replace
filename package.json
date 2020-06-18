@@ -1,7 +1,7 @@
 {
-  "name": "taro-plugin-template",
+  "name": "taro-plugin-string-replace",
   "version": "0.0.1",
-  "description": "taro 插件模版",
+  "description": "taro插件，用于字符串替换",
   "main": "index.js",
   "scripts": {
     "build": "npm run clean && npm run prod",
